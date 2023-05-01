@@ -1,2 +1,2 @@
 # fintech_project_1
-Automated Budget Planner Application
+Crypto Budget Planner Application
