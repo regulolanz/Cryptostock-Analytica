@@ -12,6 +12,8 @@ Cryptostock Analytica is a state-of-the-art analysis toolkit designed to provide
 
 3. **Risk Analysis**: Cryptostock Analytica will include tools to calculate and interpret various risk metrics, such as volatility, Value at Risk (VaR), and more. This will enable users to better understand the risk characteristics of their investments.
 
+
+
 ## Problem Statement:
 
 Investors in the modern age face the challenge of navigating a complex landscape of diverse financial assets, including both traditional stocks and newer cryptocurrencies. While these assets offer promising opportunities for profit, they also entail significant risks. Understanding these risks and making informed decisions requires extensive analysis, for which investors need sophisticated, easy-to-use tools.
