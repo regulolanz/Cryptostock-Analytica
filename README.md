@@ -6,11 +6,11 @@ Cryptostock Analytica is a state-of-the-art analysis toolkit designed to provide
 
 ## Features:
 
-1. **Technical Analysis Toolkit**: Cryptostock Analytica will provide the capability to perform technical analysis on a wide range of cryptocurrencies and stocks. This will include the ability to generate and interpret a variety of technical indicators, such as Moving Averages, Relative Strength Index (RSI), Bollinger Bands, etc.
+1. **Correlation Analysis**: The toolkit will offer users the ability to analyze the correlation between various cryptocurrencies and stocks. This can help identify assets that move together or in opposite directions, helping users create more diversified and risk-averse portfolios.
 
-2. **Correlation Analysis**: The platform will offer users the ability to analyze the correlation between various cryptocurrencies and stocks. This can help identify assets that move together or in opposite directions, helping users create more diversified and risk-averse portfolios.
+2. **Technical Analysis**: The toolkit will provide users with a range of technical analysis indicators to analyze cryptocurrencies and stocks. These indicators include, but are not limited to, Moving Averages, Relative Strength Index (RSI), Bollinger Bands, and more. The toolkit will also provide users with the ability to interpret these indicators to gain insights into market trends and make informed investment decisions.
 
-3. **Risk Analysis**: Cryptostock Analytica will include tools to calculate and interpret various risk metrics, such as volatility, Value at Risk (VaR), and more. This will enable users to better understand the risk characteristics of their investments.
+3. **Risk Analysis**: The toolkit will include tools to calculate and interpret various risk metrics, such as volatility, Value at Risk (VaR), and more. This will enable users to better understand the risk characteristics of their investments.
 
 ## Problem Statement:
 
